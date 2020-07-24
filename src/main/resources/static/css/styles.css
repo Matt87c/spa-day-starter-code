@@ -18,6 +18,10 @@ h1 {
         background-color: white;
 }
 
+h2 {
+    color: magenta;
+}
+
 table {
     margin: auto;
             width: 50%;
